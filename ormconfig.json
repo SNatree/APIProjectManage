@@ -1,0 +1,15 @@
+{
+   "name": "default",
+   "skip": true,
+   "type": "mssql",
+   "host": "",
+   "port": 1433,
+   "username": "",
+   "password": "",
+   "database": "",
+   "synchronize": true,
+   "logging": false,
+   "extra": {
+      "trustServerCertificate": true
+   }
+}
